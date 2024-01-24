@@ -12,3 +12,4 @@ Bem-vindo ao meu projeto "Adivinhe o Número"! Este é um jogo divertido realiza
 - [CodingArtistWeb](https://codingartistweb.com/)
 
 ## 📂 Acesse o projeto
+[Acesse o projeto aqui](https://adivinheonumero-nykol.vercel.app/)
